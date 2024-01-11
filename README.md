@@ -2,9 +2,13 @@
 |   | Available | Last Update | Info |
 | ------------- | ------------- | ------------ | ------------ |
 | Exams | No | - | |
-| Assignments  | Yes | December 2023 | |
 | Slides | Yes | December 2023 | |
-| Summaries | Yes | December 2023 | Slides 13-17.5 have not been summarized|
+| Practicals | Yes | November 2023 | |
+| Assignments  | Yes | December 2023 | |
+| Summaries | Yes | December 2023 | Slides 13-17.5 have not been summarized |
+
+> **NOTE:** In `Practicals`, you'll find notebooks corresponding to the practical exercises covered during class.<br>
+> The difference from the official versions lies in the inclusion of additional comments that offer a step-by-step explanation of the various algorithmic procedures.
 
 ## Website of the course
 |  Course Site | Last Update |
@@ -13,4 +17,4 @@
 
 ## Algorithms
 Here's a list of useful reimplementations of algorithms shown during lectures:
-- PPO: https://github.com/SlimShadys/PPO-StableBaselines3
+- `PPO`: https://github.com/SlimShadys/PPO-StableBaselines3
