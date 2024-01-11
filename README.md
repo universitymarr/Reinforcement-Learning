@@ -10,3 +10,7 @@
 |  Course Site | Last Update |
 | ------------- | ------------- | 
 | [Sapienza Website](https://corsidilaurea.uniroma1.it/it/users/robertocapobiancouniroma1it) | 2023 |
+
+## Algorithms
+Here's a list of useful reimplementations of algorithms shown during lectures:
+- PPO: https://github.com/SlimShadys/PPO-StableBaselines3

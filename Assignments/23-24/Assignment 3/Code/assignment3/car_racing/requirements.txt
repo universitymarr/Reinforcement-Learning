@@ -1,0 +1,7 @@
+numpy
+scipy
+gymnasium
+gymnasium[box2d]
+sklearn
+torch
+tqdm==4.66.1

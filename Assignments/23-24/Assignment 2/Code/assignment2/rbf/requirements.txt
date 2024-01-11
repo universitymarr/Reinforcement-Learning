@@ -1,0 +1,5 @@
+numpy
+scipy
+gymnasium
+gymnasium[classic_control]
+scikit-learn

@@ -1,0 +1,4 @@
+gymnasium
+gymnasium[toy_text]
+numpy
+tqdm
