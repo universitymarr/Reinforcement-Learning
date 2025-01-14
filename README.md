@@ -3,8 +3,8 @@
 | ------------- | ------------- | ------------ | ------------ |
 | Exams | No | - | |
 | Slides | Yes | December 2023 | |
-| Practicals | Yes | November 2023 | |
-| Assignments  | Yes | December 2023 | |
+| Practicals | Yes | January 2025 | |
+| Assignments  | Yes | January 2025 | |
 | Summaries | Yes | December 2023 | Slides 13-17.5 have not been summarized |
 
 > **NOTE:** In `Practicals`, you'll find notebooks corresponding to the practical exercises covered during class.<br>
